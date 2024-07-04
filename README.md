@@ -4,4 +4,6 @@ A basic calculator project with functionalities for addition, subtraction, multi
 - Addition: Adds two numbers and displays the result.
 - Subtraction: Subtracts the second number from the first number and displays the result.
 - Multiplication: Multiplies two numbers and displays the result.
-- Division: Divides the first number by the second number and displays t
+- Division: Divides the first number by the second number and displays the result.
+- Modulus: Gives the remainder
+- Clear and delete functionality
